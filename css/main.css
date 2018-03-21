@@ -9,3 +9,31 @@ h1 {
 .para-part-2 {
   font-family: "Open Sans", sans-serif;
 }
+
+@media only screen and (min-width: 15em) {
+
+  html {
+    background-color: #990033;
+    color: #fff;
+  }
+}
+
+@media only screen and (min-width: 38em) {
+
+  html {
+    color: #fff;
+  }
+}
+
+@media only screen and (min-width: 60em) {
+
+  html {
+  background-color: #fc0;
+  color: #000;
+  }
+}
+
+@media only screen and (min-width 90em) {
+
+
+}
