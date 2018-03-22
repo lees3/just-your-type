@@ -13,9 +13,10 @@ h1 {
 @media only screen and (min-width: 15em) {
 
   html {
-    background-color: #990033;
+    background-color: #903;
     color: #fff;
   }
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -23,13 +24,14 @@ h1 {
   html {
     color: #fff;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
 
   html {
-  background-color: #fc0;
-  color: #000;
+    background-color: #fc0;
+    color: #000;
   }
 
 }
